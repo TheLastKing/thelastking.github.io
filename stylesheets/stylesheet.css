@@ -45,6 +45,7 @@ header {
   background: rgba(0, 0, 0, 0.1);
   width: 100%;
   border-bottom: 1px solid rgba(0, 0, 0, 0.7);
+  /* border-bottom: 1px solid rgba(181, 232, 83, 0.5); */
   padding: 20px 0;
   padding-bottom: 10px;
   margin: 0 0 0 0;
@@ -328,6 +329,7 @@ a {
 #my-body{
     padding-left: 0px;
 }
+
 #myCarousel{
     padding-left: 0px;
     /* background: red; */
